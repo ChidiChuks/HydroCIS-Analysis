@@ -1,7 +1,7 @@
 {
-  "name": "HydroCIS-Analysis",
+  "name": "hydrocisanalysis",
   "version": "1.0.0",
-  "description": "Plotting graphs with ChartJS for final project",
+  "description": "Plotting graphs with ChartJS for final project in Data Science",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

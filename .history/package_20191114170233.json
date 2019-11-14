@@ -1,5 +1,5 @@
 {
-  "name": "HydroCIS-Analysis",
+  "name": "hydrocisanalysis",
   "version": "1.0.0",
   "description": "Plotting graphs with ChartJS for final project",
   "main": "index.js",
