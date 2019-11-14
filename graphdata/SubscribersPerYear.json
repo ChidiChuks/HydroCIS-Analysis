@@ -1,0 +1,17 @@
+{
+  "QuestionSets": ["Pay TV",
+    "Home internet",
+    "Landline telephone",
+    "Mobile voice",
+    "Mobile data plan",
+    "Streaming video service",
+    "Streaming music service",
+    "Gaming",
+    "News",
+    "Magazine",
+    "None"
+  ],
+  "2016": [ 1497, 1844, 1118, 1303, 1089, 813, 348, 423, 594, 726, 51],
+  "2017": [1443,1787,1074,1110,1096,1014,436,498,533,622,61],
+  "2018": [ 1194, 1558, 940, 1020, 1016, 971, 447, 518, 599, 659, 81]
+}
