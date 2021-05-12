@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ChidiChuks/HydroCIS-Analysis",
   "dependencies": {
-    "chart.js": "^2.7.1",
+    "chart.js": "^2.9.4",
     "jquery": "^3.2.1",
     "moment": "^2.19.3",
     "momentjs": "^2.0.0"
