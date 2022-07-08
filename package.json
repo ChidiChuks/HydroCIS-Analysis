@@ -19,7 +19,7 @@
   "dependencies": {
     "chart.js": "^2.7.1",
     "jquery": "^3.2.1",
-    "moment": "^2.19.3",
+    "moment": "^2.29.4",
     "momentjs": "^2.0.0"
   }
 }
